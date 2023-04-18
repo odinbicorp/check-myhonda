@@ -16,10 +16,9 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "19.7.0.0",
-  "projectVersion": "1.0.51",
+  "projectVersion": "1.0.63",
   "runtimeOptions": {
     "autoDispose": false,
-    "netFrameworkLazyLoading": false,
     "isPausable": true,
     "isAttended": false,
     "requiresUserInteraction": true,
@@ -31,8 +30,7 @@
     "executionType": "Workflow",
     "readyForPiP": false,
     "startsInPiP": false,
-    "mustRestoreAllDependencies": false,
-    "pipType": "ChildSession"
+    "mustRestoreAllDependencies": false
   },
   "designOptions": {
     "projectProfile": "Developement",
@@ -46,6 +44,10 @@
     },
     "fileInfoCollection": [],
     "modernBehavior": false
+  },
+  "arguments": {
+    "input": [],
+    "output": []
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
